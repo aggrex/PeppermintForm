@@ -1,0 +1,52 @@
+* {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+}
+p, label {
+    font-size: 20px;
+}
+#wrapper {
+    width: fit-content;
+    padding: 6vw;
+    margin: auto;
+    background-color: #86bea5;
+    border-radius: 10px;
+    border: 2px solid darkslategray;
+}
+input[type=radio] {
+    accent-color:black;
+}
+body {
+    background-color: #fbd8d6;
+}
+input[type=submit] {
+    padding: 16px 32px;
+    color: white;
+    font-size: 20px;
+    background-color: darkslategray;
+    border-radius: 10px;
+    border: none;
+}
+#olivesi {
+    display: none;
+}
+#wrapper2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 30vw;
+    height: 25vh;
+    padding: 6vw;
+    margin: auto;
+    background-color: #86bea5;
+    border-radius: 10px;
+    border: 2px solid darkslategray;
+}
+.submitfont {
+    font-family: 'Righteous', cursive;
+}
